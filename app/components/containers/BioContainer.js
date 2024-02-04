@@ -21,6 +21,7 @@ function BioContainer() {
         Absolwentka Malarstwa na Akademii Sztuk Pięknych im. Eugeniusza Gepperta
         we Wrocławiu (2023)
       </p>
+      <p>TESSSTTT</p>
       <p className="pb-4 font-semibold">WYBRANE WYSTAWY</p>
       <p className="pb-4">2023</p>
       <p>
